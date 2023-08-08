@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm joseph ! 👋 </h1>
+<h1 align="center">Hi, I'm sunjoe ! 👋 </h1>
 <h3 align="center"> the coding expirience. 👨‍💻 </h3>
 
 <br>
@@ -6,7 +6,6 @@
 <div>
    <div align="left">    
 <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Cup of Coffee" height="200"> 
- <height=200> 💻🖥
   </div>
 
   <div align="right">
