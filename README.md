@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm sunjoe ! 👋 </h1>
+<h1 align="center">Hi, I'm sunjoe !  </h1>
 <h3 align="center"> the coding expirience. 👨‍💻 </h3>
 
 <br>
@@ -9,12 +9,12 @@
   </div>
 
   <div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+sunjoe+%F0%9F%91%8B;👨‍💻♨+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+sunjoe+%F0%9F%91%8B;👨‍💻♨+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast;C+DEVELOPER" alt="Headline" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjoe508&label=Profile%20views&color=0e75b6&style=flat" alt="sunjoe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/MungaSun25382" target="blank"><img src="https://img.shields.io/twitter/follow/MungaSun25382?logo=twitter&style=for-the-badge" alt="hunterxcobby" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MungaSun25382" target="blank"><img src="https://img.shields.io/twitter/follow/MungaSun25382?logo=twitter&style=for-the-badge" alt="sunjoe508" /></a> </p>
 
 <br>
 <div align="right">
