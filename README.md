@@ -25,9 +25,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently learning **C Programming**
+- 🔭 I’m currently learning **REACT| RUBY**
 
-- 💬 Ask me about **Shell, Linux and C programming Language**
+- 💬 Ask me about **Shell, Linux and C programming Language HTML5 CSS**
 
 - ⚡ Fun fact: **There are about 2,500 programming languages.**
 
