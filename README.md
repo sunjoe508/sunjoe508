@@ -9,19 +9,19 @@
 
 ---
 
-<!-- Floating Hacker Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"/>
-</p>
-
----
-
 ## 👨🏾‍💻 About Me
+
+<p align="center">
+  <!-- Previous floating cartoon -->
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
+  <!-- GitHub coffee cartoon -->
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" width="200"/>
+</p>
 
 🚀 Architecting scalable digital ecosystems  
 🔐 Security-first system design  
 ⚙️ Backend Logic • APIs • Automation  
-📊 Predictive & Data-driven systems  
+📊 Predictive & Intelligent Systems  
 🎤 Tech Leadership & Public Speaking  
 
 > Code is structure.  
@@ -30,23 +30,18 @@
 
 ---
 
-## 🎮 Mini Game Zone
+## 🛡️ Hacking Mode
 
 <p align="center">
-  <a href="https://sunjoe508.github.io/mini-game" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_MY_GAME-000000?style=for-the-badge&logo=gamepad&logoColor=00F7FF"/>
-  </a>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
 </p>
-
-*(Host a simple HTML game in a repo named `mini-game` and enable GitHub Pages.)*
 
 ---
 
-## ☕ Developer Life
+## 🤖 Automation Mode
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" height="200">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="200">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -72,11 +67,23 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Live Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sunjoe508/sunjoe508/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 🎮 Mini Game Zone
+
+<p align="center">
+  <a href="https://sunjoe508.github.io/mini-game" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_MY_GAME-000000?style=for-the-badge&logo=gamepad&logoColor=00F7FF"/>
+  </a>
+</p>
+
+*(Host a simple HTML game in a repo named `mini-game` and enable GitHub Pages.)*
 
 ---
 
