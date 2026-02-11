@@ -65,15 +65,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunjoe508&theme=react-dark&hide_border=true&bg_color=0d1117"/>
 </p>
 
----
 
-## 🐍 Live Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunjoe508/sunjoe508/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🎮 Mini Game Zone
 
@@ -82,8 +74,9 @@
     <img src="https://img.shields.io/badge/PLAY_MY_GAME-000000?style=for-the-badge&logo=gamepad&logoColor=00F7FF"/>
   </a>
 </p>
+#**coomung soon**
 
-*(Host a simple HTML game in a repo named `mini-game` and enable GitHub Pages.)*
+
 
 ---
 
