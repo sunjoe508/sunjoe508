@@ -12,7 +12,7 @@
 ## 👨🏾‍💻 About Me
 
 <p align="center">
-  <!-- Previous floating cartoon -->
+  <!-- Floating cartoon -->
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
   <!-- GitHub coffee cartoon -->
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" width="200"/>
@@ -54,41 +54,35 @@
 
 ---
 
-## 📊 GitHub Intelligence
+## 🏆 Achievements & Coding Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunjoe508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjoe508&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+  <!-- Animated Trophy Badges -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=onedark&no-frame=true&column=5&row=2" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunjoe508&theme=react-dark&hide_border=true&bg_color=0d1117"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjoe508&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="600"/>
 </p>
-
-
-
-## 🎮 Mini Game Zone
 
 <p align="center">
-  <a href="https://sunjoe508.github.io/mini-game" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_MY_GAME-000000?style=for-the-badge&logo=gamepad&logoColor=00F7FF"/>
-  </a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sunjoe508&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="700"/>
 </p>
-#**coomung soon**
-
-
-
----
-
-## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=algolia&no-frame=true&column=3&row=2" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjoe508&theme=tokyonight&hide_border=false" width="600"/>
 </p>
 
----
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=sunjoe508&theme=react-dark&hide_border=false" width="800"/>
+</p>
 
-## 🌐 Connect
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://twitter.com/MungaSun25382">
