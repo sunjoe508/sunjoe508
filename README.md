@@ -1,58 +1,115 @@
-<h1 align="center">Hi, I'm sunjoe !  </h1>
-<h3 align="center"> the coding expirience. 👨‍💻 </h3>
-
-<br>
-
-<div>
-   <div align="left">    
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Cup of Coffee" height="200"> 
-  </div>
-
-  <div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+sunjoe+%F0%9F%91%8B;👨‍💻♨+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast;C+DEVELOPER" alt="Headline" />
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjoe508&label=Profile%20views&color=0e75b6&style=flat" alt="sunjoe" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MungaSun25382" target="blank"><img src="https://img.shields.io/twitter/follow/MungaSun25382?logo=twitter&style=for-the-badge" alt="sunjoe508" /></a> </p>
-
-<br>
-<div align="right">
-  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
-</div>
-<br>
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-- 🔭 I’m currently learning **REACT| RUBY**
-
-- 💬 Ask me about **Shell, Linux and C programming Language HTML5 CSS**
-
-- ⚡ Fun fact: **There are about 2,500 programming languages.**
-
-- 📫 My Email: **joemunga329@gmail.com**
-
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjoe508&"  alt="sunjoe508" /></p> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MungaSun25382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MungaSun25382" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/joseph-mungai-16096b274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunjoe508" height="30" width="40" /></a>
-<a href="https://www.instagram.com/joe_p.o.e.t/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_p.o.e.t" height="30" width="40" /></a>
-<a href="https://m.facebook.com/joe.munga.332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joe.munga.332" height="30" width="40" /></a>
+<!-- Dynamic Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=SUNJOE508&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="right"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Hi+I'm+Sunjoe+%F0%9F%91%8B;ICT+Engineer;Systems+Architect;Cybersecurity+Focused;Automation+Builder;Public+Speaker;Welcome+to+My+Digital+Universe+%F0%9F%9A%80" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjoe508&show_icons=true&locale=en&layout=compact" alt="sunjoe508" /></p>
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjoe508&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+<!-- Floating Hacker Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"/>
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=onestar&no-frame=true&column=3&row=2)
+---
 
+## 👨🏾‍💻 About Me
 
-[GitHub : sunjoe508](https://github.com/sunjoe508)
+🚀 Architecting scalable digital ecosystems  
+🔐 Security-first system design  
+⚙️ Backend Logic • APIs • Automation  
+📊 Predictive & Data-driven systems  
+🎤 Tech Leadership & Public Speaking  
+
+> Code is structure.  
+> Security is discipline.  
+> Impact is the mission.
+
+---
+
+## 🎮 Mini Game Zone
+
+<p align="center">
+  <a href="https://sunjoe508.github.io/mini-game" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_MY_GAME-000000?style=for-the-badge&logo=gamepad&logoColor=00F7FF"/>
+  </a>
+</p>
+
+*(Host a simple HTML game in a repo named `mini-game` and enable GitHub Pages.)*
+
+---
+
+## ☕ Developer Life
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" height="200">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="200">
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,react,nodejs,mysql,linux,git,github,vscode,bootstrap,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunjoe508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjoe508&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunjoe508&theme=react-dark&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=algolia&no-frame=true&column=3&row=2" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://twitter.com/MungaSun25382">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joseph-mungai-16096b274">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/joe_p.o.e.t/">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunjoe508&label=Visitors&color=00F7FF&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+</p>
