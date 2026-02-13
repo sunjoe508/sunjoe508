@@ -1,10 +1,15 @@
-<!-- Dynamic Animated Header -->
+<!-- MATRIX-STYLE ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=SUNJOE508&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=SUNJOE508&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=ICT%20Engineer%20|%20Systems%20Architect%20|%20Cybersecurity&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Hi+I'm+Sunjoe+%F0%9F%91%8B;ICT+Engineer;Systems+Architect;Cybersecurity+Focused;Automation+Builder;Public+Speaker;Welcome+to+My+Digital+Universe+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Sunjoe+%F0%9F%91%8B;Security-First+Systems+Architect;Automation+Engineer;Backend+Logic+Builder;Public+Speaker;Building+Digital+Impact+%F0%9F%9A%80&pause=1000" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-1c9d8a85-62b4-4e43-87dc-8c7e3d3f5a61.gif" width="100%"/>
 </p>
 
 ---
@@ -12,17 +17,15 @@
 ## 👨🏾‍💻 About Me
 
 <p align="center">
-  <!-- Floating cartoon -->
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
-  <!-- GitHub coffee cartoon -->
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" width="180"/>
 </p>
 
 🚀 Architecting scalable digital ecosystems  
-🔐 Security-first system design  
-⚙️ Backend Logic • APIs • Automation  
-📊 Predictive & Intelligent Systems  
-🎤 Tech Leadership & Public Speaking  
+🔐 Security-driven system design  
+⚙️ Backend Engineering • APIs • Automation  
+📊 Intelligent & Predictive Architectures  
+🎤 Technology Leadership & Public Speaking  
 
 > Code is structure.  
 > Security is discipline.  
@@ -30,80 +33,65 @@
 
 ---
 
-## 🛡️ Hacking Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
-</p>
-
----
-
-## 🤖 Automation Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,react,nodejs,mysql,linux,git,github,vscode,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,react,nodejs,mysql,linux,git,github,vscode,bootstrap,html,css&perline=7" />
 </p>
 
 ---
 
-## 🏆 Achievements & Coding Progress
+## 🏆 Achievements & Coding Highlights
 
 <p align="center">
   <!-- Animated Trophy Badges -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=onedark&no-frame=true&column=5&row=2" width="800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=tokyonight&no-frame=false&column=5&row=2" width="800"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjoe508&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="600"/>
+  <!-- Animated Skill Bars -->
+  <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-80%25-green?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeJS-80%25-lightgreen?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sunjoe508&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="700"/>
+  <!-- Animated Streak Indicator -->
+  <img src="https://streak-stats.demolab.com?user=sunjoe508&theme=tokyonight&hide_border=false&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="60%" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjoe508&theme=tokyonight&hide_border=false" width="600"/>
+  <!-- Contribution Heat Map -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunjoe508&theme=react-dark&hide_border=false&area=true" width="95%" />
 </p>
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=sunjoe508&theme=react-dark&hide_border=false" width="800"/>
-</p>
 
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://twitter.com/MungaSun25382">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=00F7FF"/>
   </a>
   <a href="https://www.linkedin.com/in/joseph-mungai-16096b274">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="https://www.instagram.com/joe_p.o.e.t/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunjoe508&label=Visitors&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sunjoe508&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
 
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:000000&height=150&section=footer"/>
 </p>
