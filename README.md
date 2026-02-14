@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Joseph+Mungai+%F0%9F%91%8B;Security-First+Systems+Architect;Automation+Engineer;Backend+Logic+Builder;ICT+Professional;Building+Digital+Impact+%F0%9F%9A%80&pause=1000" />
 </p>
 
-<!-- Tom & Jerry Animated Section -->
+<!-- Tom & Jerry Animated Section - WORKING GIFS -->
 <p align="center">
-  <img src="https://media.tenor.com/2fXBN-rUxGYAAAAi/tom-jerry-tom-and-jerry.gif" width="120" />
-  <img src="https://media.tenor.com/dvfPA_j6AmUAAAAi/tom-jerry.gif" width="120" />
-  <img src="https://media.tenor.com/9wJ9_3M-2GsAAAAi/tom-jerry.gif" width="120" />
+  <img src="https://media1.tenor.com/m/0ByJTu5Ed4AAAAAC/tom-jerry.gif" width="120" />
+  <img src="https://media1.tenor.com/m/0fCzjS57E1AAAAAC/tom-jerry.gif" width="120" />
+  <img src="https://media1.tenor.com/m/rC3Kjc0MGmUAAAAj/tom-jerry.gif" width="120" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="180"/>
-  <img src="https://media.tenor.com/92CBrGYgN3EAAAAi/tom-jerry-cartoon.gif" width="180"/>
+  <img src="https://media1.tenor.com/m/QhUSvRwE9P4AAAAj/tom-jerry.gif" width="180"/>
 </p>
 
 🚀 Architecting scalable digital ecosystems  
@@ -52,11 +52,11 @@
   <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,react,nodejs,mysql,linux,git,github,vscode,bootstrap,html,css&perline=7" />
 </p>
 
-<!-- Tom & Jerry Coding Meme -->
+<!-- Tom & Jerry Coding Meme - WORKING GIFS -->
 <p align="center">
-  <img src="https://media.tenor.com/qn7GpJj7Q0kAAAAi/tom-jerry-book.gif" width="150"/>
-  <img src="https://media.tenor.com/6Xq3rXxXU7sAAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/YkMfFvL2hS4AAAAi/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/x8vGqV3PFC4AAAAj/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/3l0t8UJ8h8IAAAAj/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/uPTBk2DqDacAAAAj/tom-jerry.gif" width="150"/>
 </p>
 
 ---
@@ -72,11 +72,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjoe508&theme=dark&background=0d1117&border=00F7FF&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=FFFFFF" width="70%" />
 </p>
 
-<!-- Fun Stats with Tom & Jerry -->
+<!-- Fun Stats with Tom & Jerry - WORKING GIFS -->
 <p align="center">
-  <img src="https://media.tenor.com/7dvv-g6phcIAAAAi/tom-jerry.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/o_aZF8Fl0EIAAAAj/tom-jerry.gif" width="100"/>
   <b>Bugs squashed: ∞ (just like Tom's attempts!)</b>
-  <img src="https://media.tenor.com/7dvv-g6phcIAAAAi/tom-jerry.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/o_aZF8Fl0EIAAAAj/tom-jerry.gif" width="100"/>
 </p>
 
 ## 🚀 Recent Activity
@@ -91,15 +91,27 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="80%"/>
 </p>
 
-<!-- Tom & Jerry Celebration -->
+<!-- Tom & Jerry Celebration - WORKING GIFS -->
 <p align="center">
-  <img src="https://media.tenor.com/sbIdUzSut7YAAAAi/tom-jerry.gif" width="200"/>
-  <img src="https://media.tenor.com/EDVkqY9PQQYAAAAi/tom-jerry.gif" width="200"/>
-  <img src="https://media.tenor.com/sbIdUzSut7YAAAAi/tom-jerry.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/yDOhPbn5gY4AAAAj/tom-jerry.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/xM7WUY03m2AAAAAj/tom-jerry.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/yDOhPbn5gY4AAAAj/tom-jerry.gif" width="200"/>
 </p>
 
 <p align="center">
   <b>🎉 When my code runs on the first try 🎉</b>
+</p>
+
+## 🎮 Debugging Style
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/meF-kkG7NwYAAAAj/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/JhO8FipEj6kAAAAj/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/XfGqI83ibvEAAAAj/tom-jerry.gif" width="150"/>
+</p>
+
+<p align="center">
+  <b>Me chasing bugs like Tom chases Jerry</b>
 </p>
 
 ## 🌐 Connect With Me
@@ -119,12 +131,12 @@
   </a>
 </p>
 
-<!-- Animated Tom & Jerry Footer -->
+<!-- Animated Tom & Jerry Footer - WORKING GIFS -->
 <p align="center">
-  <img src="https://media.tenor.com/sGlUqnPzn3EAAAAi/tom-jerry.gif" width="100"/>
-  <img src="https://media.tenor.com/8xdS77bI6rMAAAAi/tom-jerry.gif" width="100"/>
-  <img src="https://media.tenor.com/sGlUqnPzn3EAAAAi/tom-jerry.gif" width="100"/>
-  <img src="https://media.tenor.com/8xdS77bI6rMAAAAi/tom-jerry.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/3l0t8UJ8h8IAAAAj/tom-jerry.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/cjD7J_7ZPB0AAAAj/tom-jerry.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/3l0t8UJ8h8IAAAAj/tom-jerry.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/cjD7J_7ZPB0AAAAj/tom-jerry.gif" width="100"/>
 </p>
 
 ---
@@ -137,11 +149,11 @@
   <img src="https://raw.githubusercontent.com/sunjoe508/sunjoe508/output/snake.svg" alt="Snake animation" />
 </p>
 
-<!-- Tom & Jerry chasing the snake animation -->
+<!-- Tom & Jerry chasing the snake animation - WORKING GIFS -->
 <p align="center">
-  <img src="https://media.tenor.com/_wugkZIoS5sAAAAi/tom-jerry.gif" width="80"/>
+  <img src="https://media1.tenor.com/m/PO0cG5p6vKAAAAAj/tom-jerry.gif" width="80"/>
   <b>🐍 Jerry protecting his code from Tom's bugs 🐱</b>
-  <img src="https://media.tenor.com/3l0t8UJ8h8IAAAAi/tom-jerry.gif" width="80"/>
+  <img src="https://media1.tenor.com/m/X1w_Lq5zpyUAAAAj/tom-jerry.gif" width="80"/>
 </p>
 
 ---
@@ -152,11 +164,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/F6LvnHc6VO4AAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/Bg22Wyd_LL4AAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/F6LvnHc6VO4AAAAi/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/OGhIWGtFetAAAAAj/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/yx8kOVbL94IAAAAj/tom-jerry.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/OGhIWGtFetAAAAAj/tom-jerry.gif" width="150"/>
 </p>
 
 <p align="center">
   <b>⭐ Thanks for visiting! Remember: In the world of code, be the Jerry, not the Tom (but have fun like both!) ⭐</b>
+</p>
+
+<p align="center">
+  <i>P.S. - Tom is still trying to catch that mouse... just like I'm still trying to catch that bug! 🐱🐭</i>
 </p>
