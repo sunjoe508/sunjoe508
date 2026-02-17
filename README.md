@@ -1,4 +1,3 @@
-<!-- MATRIX-STYLE ANIMATED HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=SUNJOE508&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=ICT%20Engineer%20|%20Systems%20Architect%20|%20Cybersecurity&descAlignY=55&descSize=18"/>
