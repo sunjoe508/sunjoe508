@@ -1,24 +1,17 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=SUNJOE508&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=ICT%20Engineer%20|%20Systems%20Architect%20|%20Cybersecurity&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=SUNJOE508&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20|%20ICT%20Professional%20|%20Builder&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Joseph+Mungai+%F0%9F%91%8B;Security-First+Systems+Architect;Automation+Engineer;Backend+Logic+Builder;ICT+Professional;Building+Digital+Impact+%F0%9F%9A%80&pause=1000" />
-</p>
-
-<!-- Tom & Jerry Animated Section - Your Original GIFs -->
-<p align="center">
-  <img src="https://media.tenor.com/2fXBN-rUxGYAAAAi/tom-jerry-tom-and-jerry.gif" width="120" />
-  <img src="https://media.tenor.com/dvfPA_j6AmUAAAAi/tom-jerry.gif" width="120" />
-  <img src="https://media.tenor.com/9wJ9_3M-2GsAAAAi/tom-jerry.gif" width="120" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00F7FF&size=28&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Joseph+Mungai+%F0%9F%91%8B;Front-End+%26+Full-Stack+Developer;ALX+Software+Engineering+Graduate;ICT+%26+Systems+Support+Professional;Building+Digital+Impact+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7D716&size=22&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%90%88+Me+debugging+code+at+3am+%F0%9F%90%AD;When+the+code+finally+works+%F0%9F%8E%89;Production+vs+Development+%F0%9F%98%82&pause=1000" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="200" title="Automatic Typing"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="200" title="Animated Working Man"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="200" title="Typing"/>
 </p>
 
-<!-- Animated Divider with Cartoon Style -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656977-1c9d8a85-62b4-4e43-87dc-8c7e3d3f5a61.gif" width="100%"/>
 </p>
@@ -28,40 +21,48 @@
 ## 👨🏾‍💻 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="180"/>
-  <img src="https://media.tenor.com/92CBrGYgN3EAAAAi/tom-jerry-cartoon.gif" width="180"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="220" title="Working on Laptop"/>
 </p>
 
-🚀 Architecting scalable digital ecosystems  
-🔐 Security-driven system design  
-⚙️ Backend Engineering • APIs • Automation  
-📊 Intelligent & Predictive Architectures  
-💻 ICT Engineering Student  
-🌍 Based in Kenya  
+🚀 Front-End & Full-Stack Developer — ALX Africa Software Engineering (Front-End Specialization)
+🎓 Diploma in Information Technology (Credit) — KCA University
+🛠️ ICT & Systems Support — Ministry of East African Community / ASALs and Regional Development, and Ministry of Education
+⚙️ Backend logic • APIs • Automation
+🏛️ Former Secretary General, Independent Electoral Commission, KCA University
+📸 Also into photography, videography & creative media
+🌍 Based in Nairobi, Kenya
 
-> Code is structure.  
-> Security is discipline.  
-> Impact is the mission.  
-> 🐭 And sometimes... it's like Tom & Jerry! 🐱
+> Code is structure. Discipline builds reliability. Impact is the mission.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,react,nodejs,mysql,linux,git,github,vscode,bootstrap,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,php,c,cpp,mysql,git,github,linux,vscode&perline=8" />
 </p>
 
-<!-- Tom & Jerry Coding Meme - Your Original GIFs -->
 <p align="center">
-  <img src="https://media.tenor.com/qn7GpJj7Q0kAAAAi/tom-jerry-book.gif" width="150"/>
-  <img src="https://media.tenor.com/6Xq3rXxXU7sAAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/YkMfFvL2hS4AAAAi/tom-jerry.gif" width="150"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180" title="Pacman"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="180" title="Code the cool stuff"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics - FIXED
+## 🎯 Currently
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="220" title="Designer vs Developer"/>
+</p>
+
+🔭 Building and polishing personal web projects
+🌱 Deepening my full-stack and AI toolkit skills
+🤝 Open to internship/entry-level front-end & ICT opportunities
+💬 Ask me about front-end dev, ICT support, or KCA University elections!
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunjoe508&show_icons=true&count_private=true&hide_border=false&theme=dark&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" width="48%" />
@@ -73,21 +74,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sunjoe508&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" width="70%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="150" title="Busy Work"/>
+  <b>Bugs squashed: ∞</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="150" title="Coding in Peace"/>
 </p>
 
-<!-- Fun Stats with Tom & Jerry - Your Original GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/7dvv-g6phcIAAAAi/tom-jerry.gif" width="100"/>
-  <b>Bugs squashed: ∞ (just like Tom's attempts!)</b>
-  <img src="https://media.tenor.com/7dvv-g6phcIAAAAi/tom-jerry.gif" width="100"/>
-</p>
-
-## 🚀 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will auto-update with recent GitHub activity -->
-<!--END_SECTION:activity-->
+---
 
 ## 🏆 GitHub Profile Trophy
 
@@ -95,28 +87,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sunjoe508&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=4&border=00F7FF" width="80%"/>
 </p>
 
-<!-- Tom & Jerry Celebration - Your Original GIFs -->
 <p align="center">
-  <img src="https://media.tenor.com/sbIdUzSut7YAAAAi/tom-jerry.gif" width="200"/>
-  <img src="https://media.tenor.com/EDVkqY9PQQYAAAAi/tom-jerry.gif" width="200"/>
-  <img src="https://media.tenor.com/sbIdUzSut7YAAAAi/tom-jerry.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="220" title="Pro Coder"/>
 </p>
 
-<p align="center">
-  <b>🎉 When my code runs on the first try 🎉</b>
-</p>
-
-## 🎮 Debugging Style
-
-<p align="center">
-  <img src="https://media.tenor.com/_wugkZIoS5sAAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/Bg22Wyd_LL4AAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/F6LvnHc6VO4AAAAi/tom-jerry.gif" width="150"/>
-</p>
-
-<p align="center">
-  <b>Me chasing bugs like Tom chases Jerry</b>
-</p>
+---
 
 ## 📈 Contribution Graph
 
@@ -124,13 +99,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunjoe508&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false&border_color=00F7FF" width="95%" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sunjoe508/sunjoe508/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%" />
+</p>
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://twitter.com/MungaSun25382">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/joseph-mungai-16096b274">
+  <a href="https://www.linkedin.com/in/joseph-mungai-379193202/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/joe_p.o.e.t/">
@@ -141,12 +125,8 @@
   </a>
 </p>
 
-<!-- Animated Tom & Jerry Footer - Your Original GIFs -->
 <p align="center">
-  <img src="https://media.tenor.com/sGlUqnPzn3EAAAAi/tom-jerry.gif" width="100"/>
-  <img src="https://media.tenor.com/8xdS77bI6rMAAAAi/tom-jerry.gif" width="100"/>
-  <img src="https://media.tenor.com/sGlUqnPzn3EAAAAi/tom-jerry.gif" width="100"/>
-  <img src="https://media.tenor.com/8xdS77bI6rMAAAAi/tom-jerry.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="150" title="Hi There"/>
 </p>
 
 ---
@@ -156,33 +136,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sunjoe508/sunjoe508/output/snake.svg" alt="Snake animation" />
-</p>
-
-<!-- Tom & Jerry chasing the snake animation - Your Original GIFs -->
-<p align="center">
-  <img src="https://media.tenor.com/_wugkZIoS5sAAAAi/tom-jerry.gif" width="80"/>
-  <b>🐍 Jerry protecting his code from Tom's bugs 🐱</b>
-  <img src="https://media.tenor.com/3l0t8UJ8h8IAAAAi/tom-jerry.gif" width="80"/>
-</p>
-
----
-
-<!-- Animated Footer with Cartoon Style -->
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:000000&height=150&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/F6LvnHc6VO4AAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/Bg22Wyd_LL4AAAAi/tom-jerry.gif" width="150"/>
-  <img src="https://media.tenor.com/F6LvnHc6VO4AAAAi/tom-jerry.gif" width="150"/>
-</p>
-
-<p align="center">
-  <b>⭐ Thanks for visiting! Remember: In the world of code, be the Jerry, not the Tom (but have fun like both!) ⭐</b>
-</p>
-
-<p align="center">
-  <i>P.S. - Tom is still trying to catch that mouse... just like I'm still trying to catch that bug! 🐱🐭</i>
+  <b>⭐ Thanks for visiting!</b>
 </p>
