@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -8,26 +8,44 @@ on:
     branches: [ main ]
 
 jobs:
-  generate:
+  snake:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
         with:
           github_user_name: sunjoe508
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ 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  }}
+
+  trophies:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ryo-ma/github-profile-trophy@v1
+        with:
+          username: sunjoe508
+          output: profile-trophy.svg
+          theme: onedark
+          no-frame: true
+          row: 2
+          column: 4
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ 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  }}
